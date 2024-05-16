@@ -1,6 +1,6 @@
 ### Olá!🧑‍🤝‍🧑
 Meu nome é Eduardo Galvão
-- Eu estou estudando na  [Alura](https://www.alurastart.com.br) e está sendo muito bom para aprender a programar.
+- Eu estou estudando na  [Alura](https://www.alurastart.com.br) e está sendo desafiador aprender a programar.
 - Este é o meu **perfil** de _Professor_ de tecnologia, estamos utilizando a plataforma Alura para apoiar os alunos no estudo da programação de computadores.
 Você pode entrar em contato comigo pelo e-mail institucional eduardogalvao@prof.educacao.sp.gov.br
 ![](link)
